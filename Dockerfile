@@ -1,4 +1,4 @@
-FROM necbaas/openjdk:latest
+FROM necbaas/openjdk:11.0.5
 
 ENV TOMCAT_VERSION 9.0.30
 
