@@ -1,4 +1,4 @@
-NAME = necbaas/tomcat:9.0.30
+NAME = necbaas/tomcat:9.0.31
 
 all: image
 
